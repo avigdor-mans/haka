@@ -1,0 +1,19 @@
+{
+  "name": "hakaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avigdor Mansbach",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-launcher": "^0.15.1",
+    "crypto": "^1.0.1",
+    "puppeteer": "^14.4.0",
+    "url": "^0.11.0",
+    "ws": "^8.8.0"
+  }
+}
